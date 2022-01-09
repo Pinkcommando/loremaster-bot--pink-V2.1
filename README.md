@@ -1,12 +1,18 @@
-Credits to Starrfox, SirOlaf, notfaj, and Major. This wouldn't exist without you.
----------------------------------------------------------------------------------
-This is an updated take on the original loremaster bot released by Major.
+Update of updated loremaster bot released by pink.
 
-Before you ask, YES, it uses configs (obviously, who wouldn't?). Make sure to
-set them up properly with your deck. Suggested that you use a small deck, this
-way you don't learn any new spells and get your hand cluttered.
+# Credits
+- Starrfox
+- SirOlaf
+- notfaj
+- Major
+- Pink
 
-Must be outside loremaster dungeon with correct deck selected for bot to work properly.
+# How to run
+- Must be outside loremaster dungeon
+- Have correct deck selected for bot to work properly
+- Have config correctly set for your deck
+- Have a quest pointing to wizard city or other page 1 worlds selected
+- Have friend requests disabled
 
 Current bugs:
 
