@@ -1,4 +1,4 @@
-Update of updated loremaster bot released by pink.
+## Update of updated loremaster bot released by pink
 
 # Credits
 - Starrfox
@@ -14,8 +14,7 @@ Update of updated loremaster bot released by pink.
 - Have a quest pointing to wizard city or other page 1 worlds selected
 - Have friend requests disabled
 
-Current bugs:
-
+## Current bugs:
 1) "Team Up" not pressed in the beginning. If this happens, CTRL + C in the
 program and run it again. This usually only happens once in the beginning. 
 
