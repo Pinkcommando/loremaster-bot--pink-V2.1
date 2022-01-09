@@ -1,0 +1,6 @@
+mass | blade @ self
+blade @ self | Deer
+Deer | blade @ self
+blade @ self | mass
+Venge @ boss | Venge @ enemy
+
