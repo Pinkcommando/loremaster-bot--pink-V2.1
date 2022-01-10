@@ -21,7 +21,8 @@ program and run it again. This usually only happens once in the beginning.
 2) Not having a quest pointing to wizard city or any other page one world will
 cause the bot to break when trying to refill potions.
 
-3) Not having friend requests disabled will break combat.
+3) Not having friend requests disabled will break combat if someone tries to 
+friend you.
 ---------------------------------------------------------------------------------
 Enjoy. 
 
